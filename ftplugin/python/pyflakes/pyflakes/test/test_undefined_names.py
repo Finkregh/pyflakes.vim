@@ -1,3 +1,4 @@
+#!/usr/bin/python2
 
 from _ast import PyCF_ONLY_AST
 

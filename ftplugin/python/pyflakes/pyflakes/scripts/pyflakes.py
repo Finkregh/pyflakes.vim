@@ -1,3 +1,4 @@
+#!/usr/bin/python2
 
 """
 Implementation of the command-line I{pyflakes} tool.

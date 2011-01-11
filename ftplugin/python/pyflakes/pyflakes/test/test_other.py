@@ -1,3 +1,5 @@
+#!/usr/bin/python2
+
 # (c) 2005-2010 Divmod, Inc.
 # See LICENSE file for details
 

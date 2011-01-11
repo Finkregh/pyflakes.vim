@@ -1,3 +1,4 @@
+#! /usr/bin/python2
 
 """
 Tests for L{pyflakes.scripts.pyflakes}.

@@ -1,3 +1,4 @@
+#!/usr/bin/python2
 # (c) 2005 Divmod, Inc.  See LICENSE file for details
 
 class Message(object):
